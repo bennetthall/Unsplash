@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="en"><!-- InstanceBegin template="/Templates/annie-spratt-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+  <!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -10,22 +11,23 @@
     <!-- InstanceBeginEditable name="doctitle" -->
     <title>Unsplash - Annie Spratt</title>
     <!-- InstanceEndEditable -->
-    
     <!-- InstanceBeginEditable name="head" -->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
     <!-- InstanceEndEditable -->
-    
   </head>
   <body>
     <div class="container">
       <h1>Unsplash Photographer Spotlight</h1>
-          <p>[About me]</p>
-              
+      <p>[About me]</p>
+      <!-- InstanceBeginEditable name="master-content" -->
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
           <li class="breadcrumb-item active">Annie Spratt</li>
-          <!-- InstanceEndEditable -->
+            <li class="breadcrumb-item active">Example Photo</li>
+          <!-- TemplateEndEditable -->
         </ol>
       </nav>
       <div class="row">
@@ -44,13 +46,13 @@
           </div>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
-          <!-- InstanceBeginEditable name="annie-spratt-content" -->
+          <!-- TemplateBeginEditable name="annie-spratt-content" -->
           <p> This is where content goes</p>
-          <!-- InstanceEndEditable -->
+          <!-- TemplateEndEditable -->
         </div>
       </div>
-      
-          <p>[Footer]</p>
+      <!-- InstanceEndEditable -->
+      <p>[Footer]</p>
     </div>
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
@@ -58,4 +60,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-<!-- InstanceEnd --></html>
+  <!-- InstanceEnd -->
+</html>
