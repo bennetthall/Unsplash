@@ -1,4 +1,4 @@
-<!doctype html>
+ <!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -16,7 +16,6 @@
   <body>
     <div class="container">
       <h1>Unsplash Photographer Spotlight</h1>
-          <p>[About me]</p>
               <!-- TemplateBeginEditable name="master-content" -->
       <p>This is where content goes</p>
               <!-- TemplateEndEditable -->
