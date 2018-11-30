@@ -1,4 +1,4 @@
- <!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -12,23 +12,22 @@
     <!-- TemplateEndEditable -->
     <!-- TemplateBeginEditable name="head" -->
     <!-- TemplateEndEditable -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   </head>
   <body>
     <div class="container">
       <h1>Unsplash Photographer Spotlight</h1>
-              <!-- TemplateBeginEditable name="master-content" -->
+      <!-- TemplateBeginEditable name="master-content" -->
       <p>This is where content goes</p>
-              <!-- TemplateEndEditable -->
-          <div class="row">
+      <!-- TemplateEndEditable -->
+      <div class="row">
         <div class="col-12 col-sm-6">
-              Made with coffee and stress.
-              </div>
-              <div class="col-12 col-sm-6">
-                  Connect with me on 
-                  <a href="https://www.instagram.com/heyitsbennett/" target="_blank">Instagram</a>
-                  <a href="https://twitter.com/heyitsbennett" target="_blank">Twitter</a>
-              </div>
+          Made with <i class="fas fa-coffee"></i> and <i class="fas fa-smile"></i>.
         </div>
+        <div class="col-12 col-sm-6">
+          Connect with me: <a href="https://www.instagram.com/heyitsbennett/" target="_blank"><i class="fab fa-instagram"></i></a> <a href="https://twitter.com/heyitsbennett" target="_blank"><i class="fab fa-twitter"></i></a>
+        </div>
+      </div>
     </div>
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
