@@ -51,11 +51,17 @@ a:hover {
     margin-top: 1em;
     color: #ffffff;
 }
-.unsplash-footer a{
+.unsplash-footer a {
     color: #ffffff;
     font-size: 2em;
     margin-left: .25em;
 }
-.unsplash-footer a:hover{
+.unsplash-footer a:hover {
     color: #4EACF6
+}
+.unsplash-home-page-intro {
+    background-color: #4EACF6;
+    color: #ffffff;
+    padding: 1em 0;
+    margin-bottom: 1em;
 }
