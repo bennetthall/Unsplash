@@ -1,6 +1,6 @@
 body {
-    font-family: 'Lora', serif;
-    font-weight: 400;
+    font-family: 'Oswald', serif;
+    font-weight: normal;
     background-color: #E9EDF0;
 }
 h1, h2, h3 {
@@ -8,10 +8,10 @@ h1, h2, h3 {
     font-weight: 600;
 }
 a {
-    color: #008EFF;
+    color: #63136C;
 }
 a:hover {
-    color: #63136C;
+    color: #008EFF;
     text-decoration: none;
 }
 .btn-primary {
@@ -23,6 +23,39 @@ a:hover {
 .btn-primary:hover {
     color: #FFFFFF;
     background-color: #4EACF6;
-    border-color: #008EFF;
+    border-color: #4EACF6;
 }
-background-color: #008EFF;
+.unsplash-header {
+    background-color: #63136C;
+    color: #FFFFFF;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+.unsplash-header h1 small {
+    font-size: .35em;
+    font-family: 'Raleway', sans-serif;
+}
+.unsplash-header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.unsplash-header a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.unsplash-footer {
+    background-color: #63136C;
+    border-top: 5px solid #4EACF6;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin-top: 1em;
+    color: #ffffff;
+}
+.unsplash-footer a{
+    color: #ffffff;
+    font-size: 2em;
+    margin-left: .25em;
+}
+.unsplash-footer a:hover{
+    color: #4EACF6
+}
