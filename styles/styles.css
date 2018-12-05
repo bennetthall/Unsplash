@@ -1,2 +1,28 @@
-/* CSS Document */
-
+body {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    background-color: #E9EDF0;
+}
+h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+a {
+    color: #008EFF;
+}
+a:hover {
+    color: #63136C;
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: #63136C;
+    border-color: #25333A;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+.btn-primary:hover {
+    color: #FFFFFF;
+    background-color: #4EACF6;
+    border-color: #008EFF;
+}
+background-color: #008EFF;
