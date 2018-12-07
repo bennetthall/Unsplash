@@ -1,3 +1,7 @@
+/*
+
+
+*/
 body {
     font-family: 'Oswald', serif;
     font-weight: normal;
@@ -8,15 +12,15 @@ h1, h2, h3 {
     font-weight: 600;
 }
 a {
-    color: #63136C;
+    color: #CA41DB;
 }
 a:hover {
     color: #008EFF;
     text-decoration: none;
 }
 .btn-primary {
-    background-color: #63136C;
-    border-color: #25333A;
+    background-color: #CA41DB;
+    border-color: #CA41DB;
     color: #FFFFFF;
     font-weight: 100;
 }
@@ -26,7 +30,7 @@ a:hover {
     border-color: #4EACF6;
 }
 .unsplash-header {
-    background-color: #63136C;
+    background-color: #CA41DB;
     color: #FFFFFF;
     padding-top: .5em;
     padding-bottom: .5em;
@@ -44,7 +48,7 @@ a:hover {
     text-decoration: none;
 }
 .unsplash-footer {
-    background-color: #63136C;
+    background-color: #CA41DB;
     border-top: 5px solid #4EACF6;
     padding-top: .5em;
     padding-bottom: .5em;
@@ -64,4 +68,27 @@ a:hover {
     color: #ffffff;
     padding: 1em 0;
     margin-bottom: 1em;
+}
+.unsplash-navigation {
+	background-color: #4EACF6;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}
+.unsplash-navigation .breadcrumb {
+	background-color: #4EACF6;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-navigation .breadcrumb li.active {
+	color: #CA41DB;
+	font-weight: 400;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #ffffff;
 }

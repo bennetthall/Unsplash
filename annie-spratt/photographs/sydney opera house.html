@@ -17,6 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Oswald|Raleway" rel="stylesheet">
     <link href="../../styles/styles.css" rel="stylesheet" type="text/css">
     
+    
   </head>
   <body>
     <div class="unsplash-header">
@@ -25,17 +26,25 @@
       </div>
     </div>
     
-    <div class="container">
       
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-          <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+      
+    <div class="unsplash-navigation">
+      <div class="container">
+        <nav>
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+            <!-- InstanceBeginEditable name="breadcrumb-trail" -->
           <li class="breadcrumb-item"><a href="../index.html">Annie Spratt</a></li>
           <li class="breadcrumb-item active">Sydney Opera House</li>
           <!-- InstanceEndEditable -->
-        </ol>
-      </nav>
+          </ol>
+        </nav>
+      </div>
+    </div>
+    
+    <div class="container">
+      
+      
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
@@ -45,9 +54,9 @@
               <p class="card-text">👋 Hello I'm Annie from the Unsplash Team and I gift 10 new photos daily - enjoy! 🎁 </p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"><a href="https://www.instagram.com/anniespratt/?utm_medium=referral&utm_source=unsplash" target="_blank">Instagram</a> </li>
-              <li class="list-group-item"><a href="https://twitter.com/anniespratt?lang=en" target="_blank">Twitter</a></li>
-              <li class="list-group-item"><a href="https://unsplash.com/@anniespratt/collections" target="_blank">Collections</a></li>
+              <li class="list-group-item"><a href="https://www.instagram.com/anniespratt/?utm_medium=referral&utm_source=unsplash" target="_blank"><i class="fab fa-instagram"></i> Instagram</a> </li>
+              <li class="list-group-item"><a href="https://twitter.com/anniespratt?lang=en" target="_blank"><i class="fab fa-twitter-square"></i> Twitter</a></li>
+              <li class="list-group-item"><a href="https://unsplash.com/@anniespratt/collections" target="_blank"><i class="fas fa-layer-group"></i> Collections</a></li>
             </ul>
           </div>
         </div>
@@ -55,7 +64,7 @@
           <!-- InstanceBeginEditable name="annie-spratt-content" --> 
           
           <!-- Button trigger modal -->
-          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Photograph Info</button>
+          <button type="button" class="btn btn-primary float-right" data-toggle="modal" data-target="#exampleModal"><i class="fas fa-image"></i> Photograph Info</button>
           
           <!-- Modal -->
           <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
