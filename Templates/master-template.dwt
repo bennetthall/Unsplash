@@ -55,7 +55,7 @@
     <!-- TemplateEndIf -->
     <div class="container">
       <!-- TemplateBeginEditable name="master-content" -->
-      <p>This is where content goes</p>
+      
       <!-- TemplateEndEditable -->
     </div>
     <div class="unsplash-footer">

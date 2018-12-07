@@ -44,14 +44,6 @@
     
     <div class="container">
       <!-- InstanceBeginEditable name="master-content" -->
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">Marten Bjork</li>
-          <!-- TemplateEndEditable -->
-        </ol>
-      </nav>
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
@@ -61,7 +53,7 @@
               <p class="card-text">I'm a designer + developer + photographer. Currently traveling in Europe and studying math, AI and physics. Most photos taken with Canon 5D Mark III or iPhone X. 🌮 </p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"><a href="https://www.instagram.com/marten_bjork/" target="_blank">Instagram</a> </li>
+              <li class="list-group-item"><a href="https://www.instagram.com/marten_bjork/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a> </li>
             </ul>
           </div>
         </div>

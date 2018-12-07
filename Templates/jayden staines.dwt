@@ -44,14 +44,6 @@
     
     <div class="container">
       <!-- InstanceBeginEditable name="master-content" -->
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">Jayden Staines</li>
-          <!-- TemplateEndEditable -->
-        </ol>
-      </nav>
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
@@ -61,7 +53,7 @@
               <p class="card-text">@748sx</p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"><a href="https://unsplash.com/@748sx" target="_blank">Unsplash</a> </li>
+              <li class="list-group-item"><a href="https://unsplash.com/@748sx" target="_blank"><i class="fas fa-layer-group"></i> Unsplash</a> </li>
             </ul>
           </div>
         </div>
